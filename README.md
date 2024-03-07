@@ -1,4 +1,4 @@
-# CloudEra_ProductAnalysis_Hadoop
+# Cloudera_ProductAnalysis_Hadoop
 Analysis of an organization purchasing patterns using Apache Hadoop, moving data to HDFS without disrupting current systems.
 
 I worked on a project focused on analyzing customer purchasing patterns for a company called DataCo, using Apache Hadoop to handle their extensive transaction data. The aim was to discover which products their customers preferred to buy, a task traditionally handled by database systems. However, the sheer volume and complexity of DataCo's data required a more scalable and cost-effective solution. By employing Apache Hadoop, known for its ability to process big data efficiently, I could analyze transaction data on a much larger scale. This involved transferring the existing data into Hadoop's Distributed File System (HDFS) without altering the company's ongoing reports or analysis frameworks. The challenge was to ensure that the data transfer did not disrupt any existing processes while still allowing for the enhanced analytical capabilities that Hadoop provides.
